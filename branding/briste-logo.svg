@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 392 96" role="img" aria-label="Briste — Soluciones Tecnológicas">
+  <!-- Badge -->
+  <rect x="6" y="14" width="68" height="68" rx="16" fill="#173a4b"/>
+  <!-- Monograma: B verde con acento claro -->
+  <text x="40" y="65" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="46" font-weight="800" fill="#6cb33f">B</text>
+  <rect x="34" y="30" width="6" height="36" rx="3" fill="#eef2f4" opacity="0.85"/>
+  <!-- Wordmark -->
+  <text x="92" y="52" font-family="Arial, Helvetica, sans-serif" font-size="44" font-weight="800" fill="#ffffff">Briste</text>
+  <text x="94" y="76" font-family="Arial, Helvetica, sans-serif" font-size="12.5" letter-spacing="3" fill="#9fb3bd">SOLUCIONES TECNOLÓGICAS</text>
+</svg>
